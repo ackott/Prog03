@@ -5,7 +5,7 @@ require "database.php";
 
 // include the class containing functions/methods for "customer" table
 // Note: this application uses "customer" table, not "cusotmers" table
-require "customers.class.php";
+require "customer.class.php";
 $cust = new Customer();
  
 // set active record field values, if any 

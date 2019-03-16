@@ -12,7 +12,8 @@ session_start();
 <body>
     <div class="container">
             <div class="row">
-                <p><a href=https://github.com/ackott/CIS355 >Github Repo</a></p>
+                <p><a href=https://github.com/ackott/Prog03 >Github Repo</a></p>
+                <p><a href=https://github.com/ackott/Prog03 >UML Diagram</a></p>
                 <h3>PHP CRUD Grid</h3>
             </div>
             <div class="row">

@@ -34,7 +34,5 @@ if ($_POST) {
     <button type="submit" class="btn btn-success">Sign in</button>
     <a href="logout.php">Log Out</a>
     <a href="join.php">Join</a>
-    
-    
     <p style='color: red;'><?php echo $errorMessage; ?></p>
 </form>
